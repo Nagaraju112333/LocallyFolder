@@ -7,5 +7,6 @@ namespace AppOwnsData.Project
 {
     public class employee
     {
+        int a;
     }
 }
